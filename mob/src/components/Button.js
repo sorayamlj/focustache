@@ -56,7 +56,6 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
   },
   
-  // Variants
   primary: {
     backgroundColor: '#4F46E5',
   },
@@ -71,7 +70,6 @@ const styles = StyleSheet.create({
     borderColor: '#D1D5DB',
   },
   
-  // Sizes
   small: {
     paddingHorizontal: 12,
     paddingVertical: 8,
@@ -87,8 +85,7 @@ const styles = StyleSheet.create({
     paddingVertical: 16,
     minHeight: 56,
   },
-  
-  // Text styles
+
   text: {
     fontWeight: '600',
   },
@@ -102,7 +99,6 @@ const styles = StyleSheet.create({
     color: '#374151',
   },
   
-  // Text sizes
   smallText: {
     fontSize: 14,
   },
@@ -113,7 +109,6 @@ const styles = StyleSheet.create({
     fontSize: 18,
   },
   
-  // States
   disabled: {
     opacity: 0.5,
   },
